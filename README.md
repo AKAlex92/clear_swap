@@ -7,4 +7,4 @@ The utility will check if there is enough free space in RAM memory before procee
 ```
 ## Authors
 
-* **Alessandro Ripa (AKAlex92)** - *Initial work* - [clear_swap](https://github.com/AKAlex92/clear_swap/
+* **Alessandro Ripa (AKAlex92)** - *Initial work* - [clear_swap](https://github.com/AKAlex92/clear_swap/)
